@@ -1,4 +1,4 @@
-package com.smktunas.app4_recycleview
+package com.smktunas.app5_recycleview
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

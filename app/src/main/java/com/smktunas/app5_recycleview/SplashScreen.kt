@@ -1,4 +1,4 @@
-package com.smktunas.app4_recycleview
+package com.smktunas.app5_recycleview
 
 import android.content.Intent
 import android.os.Bundle

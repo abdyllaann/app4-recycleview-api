@@ -1,4 +1,4 @@
-package com.smktunas.app4_recycleview.utils
+package com.smktunas.app5_recycleview.utils
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

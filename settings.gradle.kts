@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "app4-recycleview"
+rootProject.name = "app5-recycleview"
 include(":app")
  

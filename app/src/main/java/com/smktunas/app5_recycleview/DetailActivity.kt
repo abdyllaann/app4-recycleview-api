@@ -1,4 +1,4 @@
-package com.smktunas.app4_recycleview
+package com.smktunas.app5_recycleview
 
 import android.os.Bundle
 import android.widget.ImageView

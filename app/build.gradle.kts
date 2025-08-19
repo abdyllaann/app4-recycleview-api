@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.smktunas.app4_recycleview"
+    namespace = "com.smktunas.app5_recycleview"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.smktunas.app4_recycleview"
+        applicationId = "com.smktunas.app5_recycleview"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.smktunas.app4_recycleview.adapter
+package com.smktunas.app5_recycleview.adapter
 
 import android.app.AlertDialog
 import android.content.Intent
@@ -10,9 +10,9 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.smktunas.app4_recycleview.R
-import com.smktunas.app4_recycleview.model.Buku
-import com.smktunas.app4_recycleview.DetailActivity
+import com.smktunas.app5_recycleview.R
+import com.smktunas.app5_recycleview.model.Buku
+import com.smktunas.app5_recycleview.DetailActivity
 
 class BukuAdapter(
     private val listBuku: List<Buku>) :
