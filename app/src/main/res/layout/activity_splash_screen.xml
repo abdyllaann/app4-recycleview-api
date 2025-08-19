@@ -11,9 +11,9 @@
     tools:context=".SplashScreen">
 
     <ImageView
-        android:layout_width="400dp"
-        android:layout_height="400dp"
-        android:src="@drawable/c"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/logotunas"
         android:id="@+id/imgSplash"/>
 
 </LinearLayout>

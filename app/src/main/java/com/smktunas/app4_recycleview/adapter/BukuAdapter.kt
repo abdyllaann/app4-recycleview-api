@@ -17,7 +17,7 @@ import com.smktunas.app4_recycleview.DetailActivity
 class BukuAdapter(
     private val listBuku: List<Buku>) :
     RecyclerView.Adapter<BukuAdapter.BukuViewHolder>() {
-
+    override fun getItemCount(): Int = listBuku.size
     class BukuViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val tvJudul: TextView = itemView.findViewById(R.id.tvJudul)
         val tvPenulis: TextView = itemView.findViewById(R.id.tvPenulis)
@@ -64,5 +64,4 @@ class BukuAdapter(
         }
     }
 
-    override fun getItemCount(): Int = listBuku.size
 }
